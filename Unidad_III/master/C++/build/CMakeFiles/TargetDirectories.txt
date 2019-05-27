@@ -1,0 +1,3 @@
+/home/edgarmg/Dropbox/Cinvestav/Clases/Multiplataforma/github/p_multiplataforma/Unidad_III/master/C++/build/CMakeFiles/rebuild_cache.dir
+/home/edgarmg/Dropbox/Cinvestav/Clases/Multiplataforma/github/p_multiplataforma/Unidad_III/master/C++/build/CMakeFiles/edit_cache.dir
+/home/edgarmg/Dropbox/Cinvestav/Clases/Multiplataforma/github/p_multiplataforma/Unidad_III/master/C++/build/CMakeFiles/hello_world.dir

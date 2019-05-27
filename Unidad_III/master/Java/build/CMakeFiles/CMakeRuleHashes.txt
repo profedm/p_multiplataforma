@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+11d41e6615537f5cadfa9333886e9690 CMakeFiles/HelloClass
+a23f7e75be48d70a3935cdc67bd9fc99 CMakeFiles/HelloClass.dir/java_class_filelist
+146a5ca2d523cbbfe9929a0d876853fb CMakeFiles/HelloClass.dir/java_compiled_HelloClass
+db9cf427bfd106b8cf1762050ab0fbfb HelloClass.jar
