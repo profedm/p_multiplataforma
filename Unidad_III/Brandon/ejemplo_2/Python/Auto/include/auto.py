@@ -3,7 +3,7 @@ class Auto:
         self.marca=pMarca
         self.modelo=pModelo
         self.year=pYear
-        self.kilo=int(pKilo)
+        self.kilo=pKilo
         self.color=pColor
     
     def Pintar(self,pColor):
@@ -11,7 +11,7 @@ class Auto:
         print("El Nuevo color es: "+str(self.color))
     
     def Correr(self,pKilo):
-        self.kilo=int(pKilo)+self.kilo
+        self.kilo=pKilo+self.kilo
         print("El auto viajo: "+str(self.kilo))
     
     def Modificar(self,pModelo):
