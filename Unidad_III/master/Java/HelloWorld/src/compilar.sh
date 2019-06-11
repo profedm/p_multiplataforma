@@ -1,0 +1,1 @@
+javac -cp ../include -d ../bin HelloClass.java
