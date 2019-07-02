@@ -1,5 +1,5 @@
 import java.*;
-
+import java.util.concurrent.TimeUnit;
 import java.util.*;
 
 public class Auto extends Vehiculo
@@ -35,6 +35,10 @@ public class Auto extends Vehiculo
         System.out.println("                   ");
         System.out.println("     _________     ");
         System.out.println("    (         )    ");
+        System.out.println("Modelo: "+this.modelo);
+        System.out.println("Motor: "+this.motor);
+        System.out.println("Color: "+this.color);
+        System.out.println("Kilometraje: "+this.Kilometraje);
     }
 
     public static void main(String[] args)
@@ -70,5 +74,14 @@ public class Auto extends Vehiculo
         carro=null;
 
         System.gc();
+
+        try
+        {
+            Thread.sleep(1000);
+        }
+        catch(InterruptedException ex)
+        {
+            Thread.currentThread().interrupt();
+        }
     }
 }
